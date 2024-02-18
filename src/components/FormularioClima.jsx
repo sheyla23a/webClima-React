@@ -130,7 +130,7 @@ const FormularioClima = () => {
                 <p>
                   Icono:
                   <img
-                    src={`http://openweathermap.org/img/w/${climaInfo.weather[0].icon}.png`}
+                    src={`https://openweathermap.org/img/w/${climaInfo.weather[0].icon}.png`}
                     alt="Icono del clima"
                   />
                 </p>
